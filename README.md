@@ -6,12 +6,19 @@ This project predicts house rental prices based on property features such as BHK
 The project covers the complete machine learning workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, model building, evaluation, and deployment-ready model saving.
 
 🎯 Objectives
+
 Analyze factors affecting house rental prices.
+
 Perform data preprocessing and feature engineering.
+
 Build and compare multiple regression models.
+
 Implement Linear Regression from scratch.
+
 Evaluate model performance using standard regression metrics.
+
 Save trained models for future deployment.
+
 📂 Dataset Features
 Original Features
 BHK
