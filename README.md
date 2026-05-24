@@ -8,7 +8,6 @@ The project covers the complete machine learning workflow, including data cleani
 🎯 Objectives
 
 Analyze factors affecting house rental prices.
-
 Perform data preprocessing and feature engineering.
 
 Build and compare multiple regression models.
